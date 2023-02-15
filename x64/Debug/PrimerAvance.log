@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Facultad\S-2\Programacion Basica\Visual\PrimerAvance\Source.cpp(42,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  PrimerAvance.vcxproj -> F:\Facultad\S-2\Programacion Basica\Visual\PrimerAvance\x64\Debug\PrimerAvance.exe
